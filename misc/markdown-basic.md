@@ -31,7 +31,7 @@ blockquotes
 
 
 
-![how to show image](..\pics\md-image-01.png)
+![how to show image](../pics/md-image-01.png)
 
 
 
@@ -43,7 +43,7 @@ backslash with \
 
 \*darren qiao\*
 
-![1558493648354](..\pics\md-image-02.png)
+![1558493648354](../pics/md-image-02.png)
 
 __emoji__
 
