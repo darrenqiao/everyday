@@ -1,0 +1,1 @@
+**misc** : miscellaneous  `[ˌmɪsəˈleɪniəs] `  琐碎的杂事
