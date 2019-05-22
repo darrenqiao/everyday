@@ -94,4 +94,4 @@ $$
 $$
 
 
-[more about math](https://nbviewer.jupyter.org/github/twistedhardware/mltutorial/blob/master/notebooks/jupyter/2. Markdown %26 LaTeX.ipynb)
+[more about math](https://nbviewer.jupyter.org/github/twistedhardware/mltutorial/blob/master/notebooks/jupyter/2.%20Markdown%20%26%20LaTeX.ipynb)
