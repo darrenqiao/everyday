@@ -6,7 +6,7 @@
 
 **dedicate**: She dedicates herself to her work.
 
-
+**guage**：`[ɡeɪdʒ]` guage thier level of maturity.
 
 
 
@@ -17,6 +17,10 @@
 **`A little under a yeay ago`** [ 不到一年前 ], Valve release **`a big overhaul`** [重大修改] for the chat feature.
 
 __`Dedicated`__ [专有的]apps can let you __`tweak`__ [[twiːk] 调整]notifications on a friend-by-friend basis.
+
+He is a **low-profile** founder. 低调的创始人
+
+
 
 
 
