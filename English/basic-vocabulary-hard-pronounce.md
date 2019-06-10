@@ -24,6 +24,10 @@ pottery  poem
 
 lane length   maturity `[məˈtʃʊrəti]`
 
+dessert`[ˈdezərt , dɪˈzɜːrt]`   dessert`[dɪˈzɜːrt]`
+
+fountain ` [ˈfaʊntn] ` 
+
 
 
 

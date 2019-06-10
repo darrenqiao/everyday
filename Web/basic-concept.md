@@ -42,3 +42,15 @@
 
 
 <https://www.janbasktraining.com/blog/javascript-vs-jquery/>
+
+------
+
+**Nodejs** is a runtime env executing JavaScript code.
+
+* ![1560070567573](../pics/web-00.png)
+
+
+
+
+
+![1560071206411](../pics/web-01.png)
