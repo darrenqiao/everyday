@@ -22,6 +22,12 @@
 
 **appeal** an appeal against 3-match ban  `wide appeal` 广泛的吸引力
 
+**reassure** 使...放心,安慰 We tried to **reassure** him, but he still felt anxious.
+
+
+
+
+
 ## phrase
 
 **`A little under a yeay ago`** [ 不到一年前 ], Valve release **`a big overhaul`** [重大修改] for the chat feature.

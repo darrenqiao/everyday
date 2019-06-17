@@ -28,6 +28,10 @@ dessert`[ˈdezərt , dɪˈzɜːrt]`   dessert`[dɪˈzɜːrt]`
 
 fountain ` [ˈfaʊntn] ` 
 
+admirable `[ˈædmərəbl]`
+
+
+
 
 
 

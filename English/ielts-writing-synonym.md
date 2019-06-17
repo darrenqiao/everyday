@@ -16,5 +16,17 @@ top 5 =  5 most popular , best selling brand, most successful,
 
 数字：the number of , the amount of, figure
 
+好：good, **splendid**, **brilliant**, great, **terrific**, excellent, wonderful, lit
+
+冷：cold, freezing, **chilly**, as cold as ice, **frosty**
+
+累：tired, **exhausted**, sleepy, distressed
+
+非常：vert, **highly**, **extremely**, super, awfully, usually
+
+
+
+
+
 
 
