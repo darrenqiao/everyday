@@ -24,9 +24,7 @@
 
 **reassure** 使...放心,安慰 We tried to **reassure** him, but he still felt anxious.
 
-
-
-
+**monument** `[ˈmɑːnjumənt]` 纪念碑
 
 ## phrase
 
