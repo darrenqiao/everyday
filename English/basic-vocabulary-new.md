@@ -26,6 +26,18 @@
 
 **monument** `[ˈmɑːnjumənt]` 纪念碑
 
+**spot** 斑点 识别  He is trained to spot people trying to cheat on something.
+
+**align** 对齐，使一致
+
+the top and bottom line of each column should align.
+
+domestic prices have been aligned with those in the world market.
+
+align yourself with sb 公开支持某人
+
+
+
 ## phrase
 
 **`A little under a yeay ago`** [ 不到一年前 ], Valve release **`a big overhaul`** [重大修改] for the chat feature.
@@ -37,14 +49,6 @@ He is a **low-profile** founder. 低调的创始人
 spend some quality`` time with my friends.
 
 
-
-
-
-
-
-
-
-###### 
 
 
 
